@@ -47,6 +47,18 @@ table {
     
 }
 
+
+
+
+
+
+
+
+
+
+
+
+/* extre credit media print query*/
       @media print {
         body {
             margin: 0.5in;
