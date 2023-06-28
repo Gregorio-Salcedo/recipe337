@@ -50,7 +50,62 @@ table {
     
 }
 
-
+h1 {
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 30px;
+  }
+  
+  h3 {
+    font-size: 25px;
+  }
+  
+  nav a {
+    font-size: 20px;
+  }
+  
+  nav span {
+    font-size: 20px;
+  }
+  
+  menu li {
+    font-size: 20px;
+  }
+  
+  #nav_2 {
+    font-size: 20px;
+  }
+  
+  footer {
+    font-size: 20px;
+  }
+  
+  p {
+    font-size: 16px;
+  }
+  
+  dd {
+    font-size: 16px;
+  }
+  
+  li {
+    font-size: 16px;
+  }
+  
+  nav {
+    font-size: 16px;
+  }
+  
+  nav input {
+    font-size: 16px;
+  }
+  
+  dt {
+    font-size: 16px;
+  }
+  
 
 
 
